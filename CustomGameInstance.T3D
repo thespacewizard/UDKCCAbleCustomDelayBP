@@ -1,0 +1,18 @@
+Begin Object Class=/Script/Engine.Blueprint Name="CustomGameInstance" ExportPath="/Script/Engine.Blueprint'/Game/Blueprints/CustomGameInstance.CustomGameInstance'"
+   Begin Object Class=/Script/Engine.EdGraph Name="EventGraph" ExportPath="/Script/Engine.EdGraph'/Game/Blueprints/CustomGameInstance.CustomGameInstance:EventGraph'"
+   End Object
+   Begin Object Name="EventGraph" ExportPath="/Script/Engine.EdGraph'/Game/Blueprints/CustomGameInstance.CustomGameInstance:EventGraph'"
+      Schema="/Script/CoreUObject.Class'/Script/BlueprintGraph.EdGraphSchema_K2'"
+      bAllowDeletion=False
+      GraphGuid=AAADA6B941B7FB361B2BCCA969560695
+   End Object
+   ParentClass="/Script/CoreUObject.Class'/Script/Engine.GameInstance'"
+   BlueprintSystemVersion=2
+   UbergraphPages(0)="/Script/Engine.EdGraph'EventGraph'"
+   NewVariables(0)=(VarName="DelayedFunctionsPerObject",VarGuid=F1FDCA2A46C56A98ABA2E9ACE279118D,VarType=(PinCategory="name",ContainerType=Array),FriendlyName="Delayed Functions Per Object",Category=NSLOCTEXT("KismetSchema", "Default", "Default"),PropertyFlags=5,MetaDataArray=((DataKey="MultiLine",DataValue="true")))
+   CategorySorting(0)="Default"
+   LastEditedDocuments(0)=(EditedObjectPath="/Game/Blueprints/CustomGameInstance.CustomGameInstance:EventGraph",SavedViewOffset=(X=-687.914322,Y=-617.601841),SavedZoomAmount=0.675000)
+   GeneratedClass="/Script/Engine.BlueprintGeneratedClass'CustomGameInstance_C'"
+   bLegacyNeedToPurgeSkelRefs=False
+   BlueprintGuid=4848796448CB584C3CE9CB81A07A28B6
+End Object
